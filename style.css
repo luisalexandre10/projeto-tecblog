@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(240, 234, 234);
+    font-size: 1em;
+    font-family: 'Trebuchet MS', helvetica, sans-serif;
+}
+h3{
+    background-color: rgb(192, 188, 188);
+    width: 210px;
+    padding:5px;
+}
+h1{
+    color: orange;
+}
+#cabecalho{
+    background-color: orange;
+    text-align: center;
+    padding: 50px;
+    
+
+}
+.titulo{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.b{
+    color: white;
+}
+.menu{
+    color: white;
+    text-decoration: none;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+a:link, a:visited {
+    color: #fff;
+    padding: 8px 12px;
+} 
+a:hover{ 
+    color:orange;
+    background: white;
+      
+}
+img{ 
+    width: 620px;
+    
+    
+}
+#conteudo{
+    width: 930px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.cont1{
+    width: 650px;
+    background-color: white;
+    float: left;
+    padding: 10px;
+    margin-bottom: 20px;   
+}
+.cont2{
+    width: 240px;
+    background-color: white;
+    float: right;
+     padding: 5px;
+    
+}
+#rodape{
+    text-align: center;
+    clear: both;
+    
+}
